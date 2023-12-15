@@ -1,1 +1,1 @@
-{\rtf1}
+# A very simple telegram bot
